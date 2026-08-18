@@ -1,0 +1,35 @@
+name: Update QA jobs daily
+
+on:
+  schedule:
+    # 매일 06:00 KST (21:00 UTC)
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect jobs
+        run: python scripts/update_jobs.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "qa-job-bot"
+          git config user.email "actions@github.com"
+          git add data/jobs.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: daily jobs update $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M KST')"
+            git push
+          fi
