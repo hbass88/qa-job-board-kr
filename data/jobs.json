@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18 17:26 KST",
+ "updated_at": "2026-08-19 06:11 KST",
  "total": 63,
  "jobs": [
   {
@@ -494,17 +494,6 @@
    "work_type": "국내"
   },
   {
-   "company": "우리엔",
-   "title": "[중견 계열사] QA 엔지니어(계약직)",
-   "experience": "5~10년",
-   "location": "경기 화성시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54766480",
-   "deadline": "2026-09-16",
-   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
-   "work_type": "국내"
-  },
-  {
    "company": "인젠트",
    "title": "SQA Engineer 경력직 채용",
    "experience": "2~20년",
@@ -602,6 +591,17 @@
    "deadline": "상시",
    "notes": "2026-07-10 업데이트",
    "work_type": "해외"
+  },
+  {
+   "company": "우리엔",
+   "title": "[중견 계열사] QA 엔지니어(계약직)",
+   "experience": "5~10년",
+   "location": "경기 화성시",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54766480",
+   "deadline": "2026-09-16",
+   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
+   "work_type": "국내"
   },
   {
    "company": "플래티어",
