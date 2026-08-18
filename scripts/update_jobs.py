@@ -39,6 +39,12 @@ def fetch_json(url, timeout=20):
     return json.loads(fetch(url, timeout).decode("utf-8", errors="replace"))
 
 
+def clean(text):
+    """검색 하이라이트 태그(<b>, <span> 등) 및 HTML 엔티티 제거."""
+    text = re.sub(r"<[^>]+>", "", text or "")
+    return text.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").strip()
+
+
 def is_qa(title):
     return bool(QA_TITLE_RE.search(title)) and not QA_EXCLUDE_RE.search(title)
 
@@ -53,7 +59,7 @@ def collect_jumpit():
             positions = d.get("result", {}).get("positions", []) or d.get("positions", [])
             for p in positions:
                 pid = p.get("id")
-                title = p.get("title", "")
+                title = clean(p.get("title", ""))
                 if not pid or pid in seen or not is_qa(title):
                     continue
                 seen.add(pid)
@@ -82,7 +88,7 @@ def collect_wanted():
             d = fetch_json(f"https://www.wanted.co.kr/api/v4/jobs?country=kr&job_sort=job.latest_order&locations=all&years=-1&query={q}&limit=50")
             for p in d.get("data", []):
                 pid = p.get("id")
-                title = p.get("position", "")
+                title = clean(p.get("position", ""))
                 if not pid or pid in seen or not is_qa(title):
                     continue
                 seen.add(pid)
@@ -106,7 +112,7 @@ def collect_remotive():
     try:
         d = fetch_json("https://remotive.com/api/remote-jobs?category=qa&limit=50")
         for p in d.get("jobs", []):
-            title = p.get("title", "")
+            title = clean(p.get("title", ""))
             if not is_qa(title):
                 continue
             jobs.append({
@@ -155,7 +161,7 @@ def collect_greenhouse():
         try:
             d = fetch_json(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs")
             for p in d.get("jobs", []):
-                title = p.get("title", "")
+                title = clean(p.get("title", ""))
                 if not is_qa(title):
                     continue
                 jobs.append({
@@ -178,7 +184,7 @@ def collect_kakao():
     try:
         d = fetch_json("https://careers.kakao.com/public/api/job-list?skillSet=&part=TECHNOLOGY&company=ALL&keyword=QA&employeeType=&page=1")
         for p in d.get("jobList", []):
-            title = p.get("jobOfferTitle", "")
+            title = clean(p.get("jobOfferTitle", ""))
             if not is_qa(title):
                 continue
             jobs.append({
