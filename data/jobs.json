@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-08-18 17:21 KST",
- "total": 55,
+ "total": 63,
  "jobs": [
   {
    "company": "카카오",
@@ -490,9 +490,118 @@
    "source": "Jumpit",
    "url": "https://jumpit.saramin.co.kr/position/54772475",
    "deadline": "2026-09-16",
-   "notes": "핀다 앱/웹 테스트 계획·케이스 작성, Python/Appium/Playwright 자동화 운영",
-   "work_type": "국내",
-   "verified": "2026-08-18"
+   "notes": "Confluence, Figma, Jira, Postman, Python",
+   "work_type": "국내"
+  },
+  {
+   "company": "우리엔",
+   "title": "[중견 계열사] QA 엔지니어(계약직)",
+   "experience": "5~10년",
+   "location": "경기 화성시",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54766480",
+   "deadline": "2026-09-16",
+   "notes": "Amazon EMR, Jira, MSSQL, MySQL, Playwright",
+   "work_type": "국내"
+  },
+  {
+   "company": "인젠트",
+   "title": "<span>SQA</span> Engineer 경력직 채용",
+   "experience": "2~20년",
+   "location": "서울 영등포구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54534474",
+   "deadline": "2026-08-20",
+   "notes": "QA",
+   "work_type": "국내"
+  },
+  {
+   "company": "kakao mobility",
+   "title": "[공동체] 카카오모빌리티 QA 엔지니어",
+   "experience": "-",
+   "location": "판교",
+   "source": "기업 채용페이지",
+   "url": "https://careers.kakao.com/jobs/S-4732",
+   "deadline": "상시",
+   "notes": "카카오 공식 채용 API 수집",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "(Customer Service) QA Manager",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8123930",
+   "deadline": "상시",
+   "notes": "2026-08-12 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Manager, Quality Assurance (IPO)",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7546886",
+   "deadline": "상시",
+   "notes": "2026-07-31 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Quality Assurance Associate (Customer Experience)",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118882",
+   "deadline": "상시",
+   "notes": "2026-08-13 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "Quality Assurance Specialist - Andon Operations Trainer",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7994912",
+   "deadline": "상시",
+   "notes": "2026-08-10 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
+   "title": "[쿠팡페이] Senior QA Automation Engineer (계약직)",
+   "experience": "공고 참조",
+   "location": "Seoul, South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8127212",
+   "deadline": "상시",
+   "notes": "2026-08-13 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "Staff QA Engineer [EE Excellence]",
+   "experience": "공고 참조",
+   "location": "South Korea",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7992225",
+   "deadline": "상시",
+   "notes": "2026-07-26 업데이트",
+   "work_type": "국내"
+  },
+  {
+   "company": "Kraftonindia",
+   "title": "Publishing QA",
+   "experience": "공고 참조",
+   "location": "Bengaluru",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://job-boards.greenhouse.io/kraftonindia/jobs/8627714002",
+   "deadline": "상시",
+   "notes": "2026-07-10 업데이트",
+   "work_type": "해외"
   },
   {
    "company": "플래티어",
@@ -503,18 +612,6 @@
    "url": "https://jumpit.saramin.co.kr/position/54726695",
    "deadline": "2026-09-11",
    "notes": "AI CX 솔루션 제품 품질보증·테스트",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인젠트",
-   "title": "SQA Engineer 경력직",
-   "experience": "2~20년",
-   "location": "서울 영등포구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534474",
-   "deadline": "2026-08-20",
-   "notes": "데이터 솔루션 기업 SQA, 마감 임박",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
@@ -551,18 +648,6 @@
    "url": "https://jumpit.saramin.co.kr/position/54643292",
    "deadline": "2026-09-05",
    "notes": "국방/시뮬레이션 SW 시니어 SQA",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "우리엔",
-   "title": "QA 엔지니어 (계약직)",
-   "experience": "5~10년",
-   "location": "경기 화성시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54766480",
-   "deadline": "2026-09-16",
-   "notes": "중견 계열사 SW QA 계약직",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
