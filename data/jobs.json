@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19 06:11 KST",
+ "updated_at": "2026-08-20 06:13 KST",
  "total": 63,
  "jobs": [
   {
@@ -483,17 +483,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "핀다",
-   "title": "QA 엔지니어",
-   "experience": "4~7년",
-   "location": "서울 강남구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54772475",
-   "deadline": "2026-09-16",
-   "notes": "Confluence, Figma, Jira, Postman, Python",
-   "work_type": "국내"
-  },
-  {
    "company": "인젠트",
    "title": "SQA Engineer 경력직 채용",
    "experience": "2~20년",
@@ -591,6 +580,17 @@
    "deadline": "상시",
    "notes": "2026-07-10 업데이트",
    "work_type": "해외"
+  },
+  {
+   "company": "핀다",
+   "title": "QA 엔지니어",
+   "experience": "4~7년",
+   "location": "서울 강남구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54772475",
+   "deadline": "2026-09-16",
+   "notes": "Confluence, Figma, Jira, Postman, Python",
+   "work_type": "국내"
   },
   {
    "company": "우리엔",
