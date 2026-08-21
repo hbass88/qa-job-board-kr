@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-21 06:15 KST",
- "total": 62,
+ "updated_at": "2026-08-22 06:11 KST",
+ "total": 56,
  "jobs": [
   {
    "company": "카카오",
@@ -483,6 +483,17 @@
    "verified": "2026-08-18"
   },
   {
+   "company": "인젠트",
+   "title": "SQA Engineer 경력직 채용",
+   "experience": "2~20년",
+   "location": "서울 영등포구",
+   "source": "Jumpit",
+   "url": "https://jumpit.saramin.co.kr/position/54812947",
+   "deadline": "2026-09-19",
+   "notes": "QA",
+   "work_type": "국내"
+  },
+  {
    "company": "kakao mobility",
    "title": "[공동체] 카카오모빌리티 QA 엔지니어",
    "experience": "-",
@@ -617,18 +628,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "클로봇",
-   "title": "솔루션 QA",
-   "experience": "5~10년",
-   "location": "경기 성남시",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54535631",
-   "deadline": "2026-08-21",
-   "notes": "코스닥 상장 로봇 SW 기업 시니어 QA",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
    "company": "네비웍스",
    "title": "Software Quality Assurance (SQA)",
    "experience": "6~10년",
@@ -637,78 +636,6 @@
    "url": "https://jumpit.saramin.co.kr/position/54643292",
    "deadline": "2026-09-05",
    "notes": "국방/시뮬레이션 SW 시니어 SQA",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인피닉",
-   "title": "[수원/OTA] SW 테스트 엔지니어(QA) 신입",
-   "experience": "신입",
-   "location": "경기 수원시 영통구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534330",
-   "deadline": "2026-08-21",
-   "notes": "차량 OTA SW 테스트 신입",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인피닉",
-   "title": "[수원/AVN] SW 테스트 엔지니어(QA) 신입",
-   "experience": "신입",
-   "location": "경기 수원시 영통구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534348",
-   "deadline": "2026-08-21",
-   "notes": "차량 AVN(인포테인먼트) SW 테스트 신입",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인피닉",
-   "title": "[수원/IVI] SW 테스트 엔지니어(QA) 신입",
-   "experience": "신입",
-   "location": "경기 수원시 영통구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534337",
-   "deadline": "2026-08-21",
-   "notes": "차량 IVI SW 테스트 신입",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인피닉",
-   "title": "[수원/OTA] SW 테스트 엔지니어(QA) 경력",
-   "experience": "1~4년",
-   "location": "경기 수원시 영통구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534358",
-   "deadline": "2026-08-21",
-   "notes": "차량 OTA SW 테스트 경력",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인피닉",
-   "title": "[수원/AVN] SW 테스트 엔지니어(QA) 경력",
-   "experience": "1~4년",
-   "location": "경기 수원시 영통구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534370",
-   "deadline": "2026-08-21",
-   "notes": "차량 AVN SW 테스트 경력",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "인피닉",
-   "title": "[수원/IVI] SW 테스트 엔지니어(QA) 경력",
-   "experience": "1~4년",
-   "location": "경기 수원시 영통구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54534366",
-   "deadline": "2026-08-21",
-   "notes": "차량 IVI SW 테스트 경력",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
