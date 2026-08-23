@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-23 06:09 KST",
- "total": 56,
+ "updated_at": "2026-08-24 06:09 KST",
+ "total": 54,
  "jobs": [
   {
    "company": "카카오",
@@ -267,18 +267,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "유비쿼스",
-   "title": "[QA팀] 네트워크 QA 엔지니어",
-   "experience": "경력무관",
-   "location": "경기 성남시 분당구",
-   "source": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54266125",
-   "deadline": "2026-08-23",
-   "notes": "코스닥 상장 네트워크 장비사 QA팀, 마감 임박",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
    "company": "샤플앤컴퍼니",
    "title": "(Global B2B SaaS) QA 엔지니어",
    "experience": "3~6년",
@@ -287,18 +275,6 @@
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54547598",
    "deadline": "상시",
    "notes": "글로벌 B2B SaaS(Shopl) 협업툴 QA",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "피앤피시큐어",
-   "title": "취약점분석/QA 엔지니어",
-   "experience": "3년 이상",
-   "location": "서울 강서구",
-   "source": "사람인",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54695785",
-   "deadline": "2026-08-23",
-   "notes": "DB보안 솔루션 1위 기업의 보안 QA/취약점분석",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
