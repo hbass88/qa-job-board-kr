@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-28 13:58 KST",
- "total": 54,
+ "updated_at": "2026-08-29 11:55 KST",
+ "total": 55,
  "jobs": [
   {
    "company": "카카오",
@@ -504,17 +504,6 @@
   },
   {
    "company": "Coupang",
-   "title": "Quality Assurance Associate (Customer Experience)",
-   "experience": "공고 참조",
-   "location": "Taipei, Taiwan",
-   "source": "기업 채용페이지 (Greenhouse)",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118882",
-   "deadline": "상시",
-   "notes": "2026-08-13 업데이트",
-   "work_type": "해외"
-  },
-  {
-   "company": "Coupang",
    "title": "Quality Assurance Specialist - Andon Operations Trainer",
    "experience": "공고 참조",
    "location": "Taipei, Taiwan",
@@ -543,7 +532,29 @@
    "source": "기업 채용페이지 (Greenhouse)",
    "url": "https://job-boards.greenhouse.io/kraftonindia/jobs/8627714002",
    "deadline": "상시",
-   "notes": "2026-08-27 업데이트",
+   "notes": "2026-08-28 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Lemon.io",
+   "title": "Senior QA Engineer",
+   "experience": "공고 참조",
+   "location": "Europe",
+   "source": "Remotive",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+   "deadline": "미표기",
+   "notes": "2026-08-26 게재",
+   "work_type": "리모트"
+  },
+  {
+   "company": "Coupang",
+   "title": "Quality Assurance Associate (Customer Experience)",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118882",
+   "deadline": "상시",
+   "notes": "2026-08-13 업데이트",
    "work_type": "해외"
   },
   {
