@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31 07:57 KST",
+ "updated_at": "2026-09-01 09:09 KST",
  "total": 55,
  "jobs": [
   {
@@ -255,18 +255,6 @@
    "verified": "2026-08-18"
   },
   {
-   "company": "벳칭",
-   "title": "[QA] QA 매니저",
-   "experience": "경력무관",
-   "location": "공고 참조",
-   "source": "잡플래닛",
-   "url": "https://www.jobplanet.co.kr/job/search?posting_ids%5B%5D=1537014",
-   "deadline": "2026-08-31",
-   "notes": "반려동물 헬스케어 스타트업의 QA 매니저",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
    "company": "샤플앤컴퍼니",
    "title": "(Global B2B SaaS) QA 엔지니어",
    "experience": "3~6년",
@@ -479,6 +467,17 @@
    "deadline": "상시",
    "notes": "카카오 공식 채용 API 수집",
    "work_type": "국내"
+  },
+  {
+   "company": "Coupang",
+   "title": "CS Learning & Development Associate (Quality Assurance)",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8166212",
+   "deadline": "상시",
+   "notes": "2026-08-31 업데이트",
+   "work_type": "해외"
   },
   {
    "company": "Coupang",
