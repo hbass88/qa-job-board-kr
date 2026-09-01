@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-01 09:09 KST",
- "total": 55,
+ "updated_at": "2026-09-02 07:51 KST",
+ "total": 54,
  "jobs": [
   {
    "company": "카카오",
@@ -215,18 +215,6 @@
    "url": "https://www.blindhire.co.kr/job/2891/",
    "deadline": "미표기",
    "notes": "블라인드하이어 에이전트 통한 헤드헌팅 공고",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "NHN KCP",
-   "title": "[QA팀] 웹기반 QA 엔지니어 (4년 이상)",
-   "experience": "4년 이상",
-   "location": "서울",
-   "source": "인크루트",
-   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2608040000080",
-   "deadline": "2026-09-01경",
-   "notes": "NHN 계열 대형 PG사 결제 서비스 웹 QA",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
@@ -514,6 +502,17 @@
   },
   {
    "company": "Coupang",
+   "title": "Senior Customer Service Quality Assurance Specialist",
+   "experience": "공고 참조",
+   "location": "Taipei, Taiwan",
+   "source": "기업 채용페이지 (Greenhouse)",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8161024",
+   "deadline": "상시",
+   "notes": "2026-09-01 업데이트",
+   "work_type": "해외"
+  },
+  {
+   "company": "Coupang",
    "title": "Staff QA Engineer [EE Excellence]",
    "experience": "공고 참조",
    "location": "South Korea",
@@ -540,7 +539,7 @@
    "experience": "공고 참조",
    "location": "Europe",
    "source": "Remotive",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+   "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
    "deadline": "미표기",
    "notes": "2026-08-26 게재",
    "work_type": "리모트"
@@ -622,18 +621,6 @@
    "url": "https://jumpit.saramin.co.kr/position/54643292",
    "deadline": "2026-09-05",
    "notes": "국방/시뮬레이션 SW 시니어 SQA",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "채비",
-   "title": "SW품질 보증 엔지니어",
-   "experience": "3~10년",
-   "location": "대구 수성구",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54620947",
-   "deadline": "2026-09-01",
-   "notes": "전기차 충전 인프라 기업 SW 품질보증 (근무지 대구)",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
