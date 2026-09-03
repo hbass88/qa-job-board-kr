@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-03 07:52 KST",
- "total": 54,
+ "updated_at": "2026-09-04 07:51 KST",
+ "total": 53,
  "jobs": [
   {
    "company": "카카오",
@@ -372,18 +372,6 @@
    "deadline": "상시",
    "notes": "AI 리걸테크 플랫폼 SW 테스트 인턴",
    "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "AlgaeCal",
-   "title": "Automation QA Engineer (Lead)",
-   "experience": "QA 5년+ / 리더십 2년+",
-   "location": "풀리모트 (전세계)",
-   "source": "WeWorkRemotely",
-   "url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
-   "deadline": "2026-09-03",
-   "notes": "캐나다 기업의 전세계 리모트 QA 자동화 리드, 시장 상회 보상 명시",
-   "work_type": "리모트",
    "verified": "2026-08-18"
   },
   {
