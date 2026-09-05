@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-05 07:35 KST",
- "total": 53,
+ "updated_at": "2026-09-06 07:23 KST",
+ "total": 52,
  "jobs": [
   {
    "company": "카카오",
@@ -597,18 +597,6 @@
    "url": "https://jumpit.saramin.co.kr/position/54682413",
    "deadline": "2026-09-07",
    "notes": "QA 조직 리드·테스트 전략/프로세스 총괄",
-   "work_type": "국내",
-   "verified": "2026-08-18"
-  },
-  {
-   "company": "네비웍스",
-   "title": "Software Quality Assurance (SQA)",
-   "experience": "6~10년",
-   "location": "경기 안양권",
-   "source": "Jumpit",
-   "url": "https://jumpit.saramin.co.kr/position/54643292",
-   "deadline": "2026-09-05",
-   "notes": "국방/시뮬레이션 SW 시니어 SQA",
    "work_type": "국내",
    "verified": "2026-08-18"
   },
